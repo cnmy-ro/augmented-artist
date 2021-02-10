@@ -3,8 +3,13 @@ Exploring generative software 2.0 tools that extend an artist's creative capabil
 
 
 ## Vision of the project
-An artificial neural extension to our biological neural network (the brain) to help bridge the gap between (an often high) imaginative capability and (an often limiting) skill in using the creative medium. 
+An artificial neural extension to our biological neural network (the brain) to:
+1. Serve as a learning tool to bridge the gap between (an often high) imaginative capability and (an often limiting) skill in using the creative medium. 
+2. Allow creation of new forms of art.
 
 
-## Possible failure modes
-An assumption here is that the imaginative capability and the skill level are independent of each other. This might be wrong. Maybe the two grow mutually within a person - i.e. improving the skill level can help achieve higher levels of imagination, which can in turn help improve the skill level at a higher rate.
+## Resources
+
+1. [AIArtists.org](https://aiartists.org)
+	- A.I. art tools [page](https://aiartists.org/ai-generated-art-tools)
+	- Generative art guide [page](https://aiartists.org/generative-art-design)
